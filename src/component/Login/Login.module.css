@@ -1,0 +1,8 @@
+.all{
+    margin-left: 200px;
+}
+.formSummaryError{
+    border: 1px solid red;
+    padding: 5px;
+    color: #540000;
+}

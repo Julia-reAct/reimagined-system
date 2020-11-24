@@ -1,0 +1,14 @@
+#form textarea{
+    width: 500px;
+    height: 200px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+#form.error input,
+#form.error textarea {
+    border: 2px solid #e90202;
+}
+.error span {
+    color: #e90202;
+}
+

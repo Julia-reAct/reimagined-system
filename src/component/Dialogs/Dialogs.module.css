@@ -1,0 +1,36 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsItems {
+
+}
+
+.messages {
+    padding: 10px;
+}
+.textwriter {
+    width: 700px;
+    height: 190px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+
+.buton {
+    display: block;
+    color: white;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    background-color: #552db3;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.allMessage{
+    max-height: 480px;
+    overflow: auto;
+}
+.person {
+    height: 740px;
+    border-right: 5px solid black;
+}

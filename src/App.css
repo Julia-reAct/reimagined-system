@@ -1,0 +1,17 @@
+.app-my {
+    margin: 0 auto;
+    display: grid;
+    width: 100%;
+    grid-template-areas:
+  "h h"
+  "n c ";
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 10fr;
+    grid-gap: 10px;
+    background: url("https://media.istockphoto.com/vectors/hand-drawn-beauty-and-cosmetics-items-set-seamless-pattern-background-vector-id861892222?k=6&m=861892222&s=170667a&w=0&h=bs1m8lXHhj6UgbjdOUH5-DIk3B9O5qlGw_58xc2ixKM=");
+}
+
+.app-my-content {
+    grid-area: c;
+    font-size: 25px;
+}

@@ -1,0 +1,14 @@
+
+.item a {
+    color: black;
+    text-decoration: none;
+
+}
+.avatar {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+
+

@@ -1,0 +1,10 @@
+.message:nth-child(even){
+  color: black;
+  margin-left: 50%;
+  list-style-type: none;
+
+}
+.message:nth-child(odd){
+    color: red;
+    list-style-type: none;
+}
