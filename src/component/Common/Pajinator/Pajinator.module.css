@@ -1,0 +1,22 @@
+.photo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.selectedPage{
+    font-weight: 700;
+}
+#span{
+    padding-right: 10px;
+}
+
+.num{
+    max-width:300px ;
+    overflow: auto;
+}
+#page{
+    padding-right: 10px;
+}
+.all{
+    margin-left: 50px;
+}
